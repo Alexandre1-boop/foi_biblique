@@ -6,9 +6,18 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "next": "13.4.10",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+
+ "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "^14.2.3"
+  },
+  "devDependencies": {
+    "typescript": "^5",         // Assurez-vous que cette ligne est présente
+    "@types/react": "^18",       // Assurez-vous que cette ligne est présente
+    "@types/node": "^20",        // Assurez-vous que cette ligne est présente
+    "eslint": "^8",
+    "eslint-config-next": "^14"
   }
+  
 }
