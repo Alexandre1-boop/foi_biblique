@@ -13,9 +13,9 @@
     "next": "^14.2.3"
   },
   "devDependencies": {
-    "typescript": "^5",         // Assurez-vous que cette ligne est présente
-    "@types/react": "^18",       // Assurez-vous que cette ligne est présente
-    "@types/node": "^20",        // Assurez-vous que cette ligne est présente
+    "typescript": "^5",         
+    "@types/react": "^18",       
+    "@types/node": "^20",        
     "eslint": "^8",
     "eslint-config-next": "^14"
   }
