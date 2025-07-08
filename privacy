@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .last-updated {
+            font-style: italic;
+            color: #666;
+            text-align: right;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Politique de Confidentialité</h1>
+
+    <p>La présente Politique de Confidentialité décrit comment [Nom de votre site web] (le "Site") collecte, utilise et divulgue vos informations personnelles lorsque vous visitez le Site.</p>
+
+    ---
+
+    <h2>1. Collecte d'informations</h2>
+    <p>Nous ne collectons aucune information personnelle identifiable sur nos utilisateurs, sauf si elle est volontairement fournie par vous. Cela peut inclure votre nom et votre adresse e-mail si vous nous contactez via un formulaire ou une adresse e-mail fournie.</p>
+    <p>Nous utilisons des outils d'analyse web génériques (par exemple, Google Analytics si vous l'utilisez, sinon retirez cette mention) pour collecter des informations non personnelles sur l'utilisation de notre Site, telles que les pages visitées, le temps passé sur le Site et les préférences de navigation. Ces informations sont anonymes et utilisées uniquement pour améliorer l'expérience utilisateur.</p>
+
+    ---
+
+    <h2>2. Utilisation des informations</h2>
+    <p>Les informations que nous collectons sont utilisées dans les buts suivants :</p>
+    <ul>
+        <li>Pour répondre à vos demandes ou questions.</li>
+        <li>Pour améliorer et personnaliser votre expérience sur notre Site.</li>
+        <li>Pour analyser l'utilisation du Site et améliorer nos services (informations non personnelles).</li>
+    </ul>
+
+    ---
+
+    <h2>3. Partage d'informations</h2>
+    <p>Nous ne vendons, n'échangeons ni ne louons vos informations personnelles identifiables à des tiers. Nous pouvons partager des informations non personnelles agrégées avec des partenaires pour des analyses ou des études de marché, mais ces informations ne peuvent pas être utilisées pour vous identifier personnellement.</p>
+    <p>Nous pouvons divulguer vos informations si la loi l'exige ou si nous pensons de bonne foi qu'une telle action est nécessaire pour se conformer à une obligation légale, protéger et défendre les droits ou la propriété de [Nom de votre site web], prévenir ou enquêter sur d'éventuels actes répréhensibles liés au Site, ou protéger la sécurité personnelle des utilisateurs du Site ou du public.</p>
+
+    ---
+
+    <h2>4. Cookies</h2>
+    <p>Le Site peut utiliser des "cookies" pour améliorer l'expérience utilisateur. Votre navigateur web place des cookies sur votre disque dur à des fins d'archivage et parfois pour suivre des informations à leur sujet. Vous pouvez choisir de configurer votre navigateur pour refuser les cookies ou pour vous alerter lorsque des cookies sont envoyés. Si vous le faites, veuillez noter que certaines parties du Site peuvent ne pas fonctionner correctement.</p>
+
+    ---
+
+    <h2>5. Liens vers d'autres sites web</h2>
+    <p>Notre Site peut contenir des liens vers d'autres sites web qui ne sont pas exploités par nous. Si vous cliquez sur un lien tiers, vous serez dirigé vers le site de ce tiers. Nous vous conseillons vivement de consulter la politique de confidentialité de chaque site que vous visitez. Nous n'avons aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites ou services tiers et n'assumons aucune responsabilité à cet égard.</p>
+
+    ---
+
+    <h2>6. Sécurité</h2>
+    <p>La sécurité de vos informations est importante pour nous, mais n'oubliez pas qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique, n'est 100 % sécurisée. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos informations personnelles, nous ne pouvons garantir leur sécurité absolue.</p>
+
+    ---
+
+    <h2>7. Modifications de cette politique de confidentialité</h2>
+    <p>Nous pouvons mettre à jour notre Politique de Confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page. Nous vous conseillons de consulter cette Politique de Confidentialité périodiquement pour tout changement. Les modifications apportées à cette Politique de Confidentialité sont effectives lorsqu'elles sont publiées sur cette page.</p>
+
+    ---
+
+    <h2>8. Contactez-nous</h2>
+    <p>Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter :</p>
+    <p>Par e-mail : [Votre adresse e-mail]</p>
+
+    <p class="last-updated">Dernière mise à jour : 8 juillet 2025</p>
+</body>
+</html>
