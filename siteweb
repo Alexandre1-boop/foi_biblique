@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Bible - Jean 3:16</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 40px 20px;
+            background-color: #f8f0e3; /* Couleur douce et chaude */
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+        .bible-container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            max-width: 700px;
+            width: 100%;
+            text-align: center;
+        }
+        h1 {
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+            color: #2c3e50; /* Bleu foncé pour le titre */
+            font-size: 2.8em;
+            margin-bottom: 25px;
+            letter-spacing: 1px;
+            position: relative;
+            padding-bottom: 15px;
+        }
+        h1::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            bottom: 0;
+            width: 80px;
+            height: 3px;
+            background-color: #e74c3c; /* Ligne rouge distinctive */
+            border-radius: 2px;
+        }
+        .verse-reference {
+            font-size: 1.6em;
+            color: #e74c3c; /* Rouge pour la référence */
+            font-weight: bold;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+        .bible-text {
+            font-size: 1.3em;
+            color: #555;
+            text-align: justify;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="bible-container">
+        <h1>Un Passage Biblique</h1>
+
+        <p class="verse-reference">Jean 3:16</p>
+
+        <p class="bible-text">
+            « Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle. »
+        </p>
+
+        <footer>
+            <p>&copy; 2025 Mon Site Biblique. Tous droits réservés.</p>
+        </footer>
+    </div>
+</body>
+</html>
